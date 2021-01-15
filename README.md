@@ -3,4 +3,7 @@
 ```
 Automate GUI pentesting passif news concept
 ```
-<a class="link-gray-dark"  </a>
+
+<div class="text-white bg-red mb-2">
+  .text-white on .bg-red
+</div>
