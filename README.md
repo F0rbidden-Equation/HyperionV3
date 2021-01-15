@@ -4,6 +4,6 @@
 Automate GUI pentesting passif news concept
 ```
 
-<div class="text-white bg-red mb-2">
-  .text-white on .bg-red
+<div class="text-red mb-2">
+  .text-red on white
 </div>
