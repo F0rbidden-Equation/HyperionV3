@@ -8,6 +8,4 @@
 ```
 Automate GUI pentesting passif news concept
 ```
-```PYTHON
-print("hello world")
-```
+
