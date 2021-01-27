@@ -10,6 +10,6 @@ sudo apt install python3-pip
 sudo apt install git
 sudo apt install xsltproc
 pip3 install PyQt5==5.13
-pip3 install PyQtWebEngine
+pip3 install PyQtWebEngine==5.15.0
 pip3 install python3-nmap
 python3 Install_Hyperionv3.py
