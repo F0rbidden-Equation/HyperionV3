@@ -9,6 +9,8 @@ Linux Platform Installation Guide , Installations Hyperionv3:
        apt-get udpate && upgrade
       
       > Install step [2] 
+       cd HyperionV3
+       cd install
        sudo chmod +x install_Hyperionv3.py
        sudo chmod +x install_Hyperionv3.sh
        sh install_Hyperionv3.sh
