@@ -15,6 +15,6 @@ Linux Platform Installation Guide , Installations Hyperionv3:
        cd install
        sudo chmod +x Install_Hyperionv3.py
        sudo chmod +x auto_install.sh
-       sh install_Hyperionv3.sh
+       sh auto_install.sh
      
      
