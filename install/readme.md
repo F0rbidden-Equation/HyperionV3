@@ -25,6 +25,7 @@ Linux Platform Installation Guide UBuntu 20.04 , Installations Hyperionv3:
  ##### > Install step [1]
  ![Mint_Instal](https://user-images.githubusercontent.com/59021489/106781142-05bf4900-6649-11eb-8c9f-10d63b20966a.gif)
  ##### > Install step [2]
+![gui_installMint](https://user-images.githubusercontent.com/59021489/106788486-4d49d300-6651-11eb-80a8-65d729da621a.gif)
 
 
 
