@@ -1,5 +1,5 @@
 ###     Hyperion version 3.0 
-###     Installation Tutorial UBuntu 20.04
+###     Installation Tutorial Linux UBuntu 20.04
 
 ![Install_Hypv3](https://user-images.githubusercontent.com/59021489/106630708-5fa60d00-657c-11eb-9acd-0ecfd23ba6bb.gif)
 
@@ -18,5 +18,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
        sudo chmod +x Install_Hyperionv3.py
        sudo chmod +x auto_install.sh
        sh auto_install.sh
-     
-     
+       
+ ```
+ ###     Installation Tutorial Linux Mint 
+ 
