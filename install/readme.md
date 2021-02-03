@@ -20,7 +20,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
        sh auto_install.sh
        
  ```
- ###     Installation Tutorial Linux Mint 
+ ###     Installation Tutorial Linux Mint 20
  
 ```python
 Linux Platform Installation Guide , Installations Hyperionv3:
