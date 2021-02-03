@@ -17,7 +17,7 @@ Linux Platform Installation Guide UBuntu 20.04 , Installations Hyperionv3:
        sh auto_install.sh
        
  ```
-##### ! Attention during installation after confirmations do not close the process bar during installation !
+##### !! Attention !! during the installation after confirmation, do not close the progress bar after the validation of the start of the installation
 
 
 
