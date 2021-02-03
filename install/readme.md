@@ -19,7 +19,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
  ```
  ####  > Installation step [2]
  ![Ubuntu_gui](https://user-images.githubusercontent.com/59021489/106791558-5d63b180-6655-11eb-84f6-d802711ace0d.gif)
- 
+ ##### !! Warning, do not close the process bar after starting the installation !!
  
  ###     Installation Tutorial Linux Mint 20
  #### > Install step [1]
@@ -38,4 +38,4 @@ Linux Platform Installation Guide , Installations Hyperionv3:
  ```
 #### > Install step [2]
  ![gui_installMint](https://user-images.githubusercontent.com/59021489/106792109-0dd1b580-6656-11eb-852f-634a2552fb2a.gif)
-
+##### !! Warning, do not close the process bar after starting the installation !!
