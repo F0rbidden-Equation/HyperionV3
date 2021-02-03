@@ -6,7 +6,7 @@
 ```python
 Linux Platform Installation Guide UBuntu 20.04 , Installations Hyperionv3:
      
-     > Install step [1]
+     
      # Ubuntu , Mint , Debian ,currently not compatible with kali linux
        apt-get udpate && upgrade
       
@@ -20,7 +20,9 @@ Linux Platform Installation Guide UBuntu 20.04 , Installations Hyperionv3:
        
  ```
  ###     Installation Tutorial Linux Mint 20
+ > Install step [1]
  ![Mint_Instal](https://user-images.githubusercontent.com/59021489/106781142-05bf4900-6649-11eb-8c9f-10d63b20966a.gif)
+ > Install step [2]
  ![installation_GUI](https://user-images.githubusercontent.com/59021489/106783794-f7bef780-664b-11eb-949b-92d3bcad22bc.gif)
 
 
