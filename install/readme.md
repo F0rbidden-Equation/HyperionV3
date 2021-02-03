@@ -1,8 +1,6 @@
 ###     Hyperion version 3.0 
 ###     Installation Tutorial Linux UBuntu 20.04
-
 ![Install_Hypv3](https://user-images.githubusercontent.com/59021489/106630708-5fa60d00-657c-11eb-9acd-0ecfd23ba6bb.gif)
-
 ```python
 Linux Platform Installation Guide UBuntu 20.04 , Installations Hyperionv3:
      
@@ -19,6 +17,10 @@ Linux Platform Installation Guide UBuntu 20.04 , Installations Hyperionv3:
        sh auto_install.sh
        
  ```
+##### ! Attention during installation after confirmations do not close the process bar during installation !
+
+
+
  ###     Installation Tutorial Linux Mint 20
  ##### > Install step [1]
  ![Mint_Instal](https://user-images.githubusercontent.com/59021489/106781142-05bf4900-6649-11eb-8c9f-10d63b20966a.gif)
