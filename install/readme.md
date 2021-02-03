@@ -20,7 +20,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
        
  ```
  ###     Installation Tutorial Linux Mint 20
- 
+ ![Mint_Instal](https://user-images.githubusercontent.com/59021489/106781142-05bf4900-6649-11eb-8c9f-10d63b20966a.gif)
 ```python
 Linux Platform Installation Guide , Installations Hyperionv3:
      
