@@ -12,7 +12,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
       
       > Install step [2] 
        git clone https://github.com/F0rbidden-Equation/HyperionV3.git
-       cd HyperionV3-master
+       cd HyperionV3
        cd hyperionv3
        cd install
        sudo chmod +x Install_Hyperionv3.py
@@ -31,7 +31,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
       
       > Install step [2] 
        git clone https://github.com/F0rbidden-Equation/HyperionV3.git
-       cd HyperionV3-master
+       cd HyperionV3
        cd hyperionv3
        cd install
        sudo chmod +x Install_Hyperionv3.py
