@@ -42,7 +42,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
 
  ###     Installation Tutorial Debian 10
  #### > Install step [1]
- 
+ ![Debian_install](https://user-images.githubusercontent.com/59021489/106918897-ea684280-6709-11eb-999e-8f9d9e4cc56b.gif)
   ```python
 Linux Platform Installation Guide , Installations Hyperionv3:
      # Ubuntu , Mint , Debian ,currently not compatible with kali linux
@@ -56,6 +56,6 @@ Linux Platform Installation Guide , Installations Hyperionv3:
        sh auto_install.sh
  ```
 #### > Install step [2]
-
+![Dbian_INstall_gui](https://user-images.githubusercontent.com/59021489/106918886-e89e7f00-6709-11eb-94b6-7818ccd94feb.gif)
 ##### !! Warning, do not close the process bar after starting the installation !!
  
