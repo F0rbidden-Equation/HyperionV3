@@ -39,3 +39,23 @@ Linux Platform Installation Guide , Installations Hyperionv3:
 #### > Install step [2]
  ![gui_installMint](https://user-images.githubusercontent.com/59021489/106792109-0dd1b580-6656-11eb-852f-634a2552fb2a.gif)
 ##### !! Warning, do not close the process bar after starting the installation !!
+
+ ###     Installation Tutorial Debian 10
+ #### > Install step [1]
+ 
+  ```python
+Linux Platform Installation Guide , Installations Hyperionv3:
+     # Ubuntu , Mint , Debian ,currently not compatible with kali linux
+       apt-get udpate && upgrade
+      
+       git clone https://github.com/F0rbidden-Equation/HyperionV3.git
+       cd HyperionV3
+       cd install
+       sudo chmod +x Install_Hyperionv3.py
+       sudo chmod +x auto_install.sh
+       sh auto_install.sh
+ ```
+#### > Install step [2]
+
+##### !! Warning, do not close the process bar after starting the installation !!
+ 
