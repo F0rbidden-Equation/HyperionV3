@@ -40,7 +40,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
  ![gui_installMint](https://user-images.githubusercontent.com/59021489/106792109-0dd1b580-6656-11eb-852f-634a2552fb2a.gif)
 ##### !! Warning, do not close the process bar after starting the installation !!
 
- ###     Installation Tutorial Debian 10
+ ###     Installation Tutorial Debian 10.7.0
  #### > Install step [1]
  ![Debian_install](https://user-images.githubusercontent.com/59021489/106918897-ea684280-6709-11eb-999e-8f9d9e4cc56b.gif)
   ```python
