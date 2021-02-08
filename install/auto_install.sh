@@ -1,5 +1,8 @@
 #!/bin/sh
 #apt-get update 
+#pip3 install --user --upgrade PyQt5 
+#pip3 install --user --upgrade PyQt5-sip 
+#pip3 install --user --upgrade PyQtWebEngine
 sudo apt-get install git  
 sudo apt-get install python3
 sudo apt-get install python3-pip 
