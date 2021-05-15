@@ -5,7 +5,7 @@
 
 ```python
 Linux Platform Installation Guide , Installations Hyperionv3:
-       Ubuntu , Mint currently ** not compatible with kali linux Debian **
+       Ubuntu , Mint currently ** not compatible with kali linux Debian ** take the version for *Debian and kali linux* : *HyperionV3-kali-linux* on my github
        apt-get udpate && upgrade
       
       
