@@ -41,7 +41,7 @@ Linux Platform Installation Guide , Installations Hyperionv3:
 ##### !! Warning, do not close the process bar after starting the installation !!
 #### > Starting  Hyperionv3 program step [3]
 ```python
-step [2] Starting Hyperionv3 for Kali linux :
+step [2] Starting Hyperionv3 for Mint,Ubuntu :
 cd HyperionV3
 sudo chmod +x hyperionv3.py
 python3 hyperionv3.py
