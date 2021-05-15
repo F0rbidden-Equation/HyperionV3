@@ -42,8 +42,8 @@ Linux Platform Installation Guide , Installations Hyperionv3:
 #### > Starting  Hyperionv3 program step [3]
 ```python
 step [2] Starting Hyperionv3 for Kali linux :
-cd HyperionV3-Kali-Linux
-sudo chmod +x hyperionv3_kali.py
-python3 hyperionv3_kali.py
+cd HyperionV3
+sudo chmod +x hyperionv3.py
+python3 hyperionv3.py
  ```
 
